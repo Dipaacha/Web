@@ -1,0 +1,35 @@
+header{
+    background-color: gray;
+    height:100px;
+    text-align: center;
+    font-size: 16;
+
+}
+.cont{
+    display: flex;
+    /* flex-direction: column; */
+    /* flex-direction: row-reverse; */
+    
+}
+#Start{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+    order: 2;
+}
+.rightbar{
+    background-color: pink;
+    height: 100px;
+    width: 100px;
+    order: 1;
+}
+#leftbar{
+    background-color: rgb(221, 91, 112);
+    height: 100px;
+    width: 100px;
+    order: 3;
+}
+footer{
+background-color: green;
+height: 100px;
+}

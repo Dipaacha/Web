@@ -1,0 +1,15 @@
+//These are basic html tags
+
+<h1> Main Heading that creates big title <h1>
+
+<p>Paragraph tag that created regular text blocks <p>
+
+<a href="www.google.com"> This create clickable link to gogole in this case </a>
+
+<img src="cat.jpg" alt="This the picture cration">
+
+<ul>
+    <li> Option1 </li>
+    <li>Option2</li>
+    (This created bullet points)
+</ul>

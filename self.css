@@ -1,0 +1,5 @@
+header{background: red;}
+header.container{width: 100%; padding:2%;}
+.logo img{ height: 50px;}
+.menu div{ display: inline-block; margin: 20px; color: white; font-size: 14px; background-color: red;}
+.Welcome{padding:4%; width: 100%; float: right;text-align: center; font-size: 14;}
